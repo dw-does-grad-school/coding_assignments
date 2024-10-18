@@ -80,12 +80,10 @@ def main():
         N = 8
         D = 2
         K = 3
-
-    # Build K-d tree
+        
     points = list(range(N))
     kd_tree = build_kd_tree(points)
 
-    # Classify all points and build confusion matrix
     confusion_matrix = [[0, 0], [0, 0]]
     for i in range(N):
         neighbors = k_nearest_neighbors(kd_tree, i, K)
@@ -93,7 +91,6 @@ def main():
         actual_class = grader.get_class(i)
         confusion_matrix[max(0, actual_class)][max(0, predicted_class)] += 1
 
-    # Print confusion matrix
     print(f"{confusion_matrix[1][1]} {confusion_matrix[1][0]}")
     print(f"{confusion_matrix[0][1]} {confusion_matrix[0][0]}")
 
