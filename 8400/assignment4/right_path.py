@@ -1,6 +1,8 @@
 #If this works I'm going to have a stroke
 import os, sys, random, time, math
 
+#This works for smaller datasets but not larger.
+#The breaking point seems to be around 250 test cases. 
 
 def solve(n, get_neighbors):
     global N
