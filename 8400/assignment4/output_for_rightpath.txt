@@ -1,0 +1,69 @@
+-----------------
+Testcase 1:
+Score: 100%, Weight: 0
+-----------------
+Testcase 2:
+Score: 100%, Weight: 1
+-----------------
+Testcase 3:
+Score: 93%, Weight: 1
+-----------------
+Testcase 4:
+Score: 92%, Weight: 1
+-----------------
+Testcase 5:
+Score: 51%, Weight: 1
+-----------------
+Testcase 6:
+Your program took too long for this test case!
+Last 5 lines of your program's output, if any:
+Command exited with non-zero status 124
+
+Skipping this test case...
+Score: 0%, Weight: 1
+-----------------
+Testcase 7:
+Your program took too long for this test case!
+Last 5 lines of your program's output, if any:
+Command exited with non-zero status 124
+
+Skipping this test case...
+Score: 0%, Weight: 1
+-----------------
+Testcase 8:
+Your program took too long for this test case!
+Last 5 lines of your program's output, if any:
+Command exited with non-zero status 124
+
+Skipping this test case...
+Score: 0%, Weight: 1
+-----------------
+Testcase 9:
+Your program took too long for this test case!
+Last 5 lines of your program's output, if any:
+Command exited with non-zero status 124
+
+Skipping this test case...
+Score: 0%, Weight: 1
+-----------------
+Testcase 10:
+Your program took too long for this test case!
+Last 5 lines of your program's output, if any:
+Command exited with non-zero status 124
+
+Skipping this test case...
+Score: 0%, Weight: 1
+-----------------
+Testcase 11:
+Your program took too long for this test case!
+Last 5 lines of your program's output, if any:
+Command exited with non-zero status 124
+
+Skipping this test case...
+Score: 0%, Weight: 1
+-----------------
+Testcase 12:
+Score: 0%, Weight: 1
+-----------------
+
+Total score: 30.55%
